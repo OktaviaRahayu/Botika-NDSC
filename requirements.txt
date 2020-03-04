@@ -1,0 +1,12 @@
+Before you try the ipynb file please install this package
+
+pandas
+numpy
+seaborn
+nltk
+# when you install nltk and want to use the corpus you should:
+# download using nltk.download('punkt') & nltk.download('stopwords')
+sklearn
+
+if you install the package in jupyter notebook, you can used this code
+!pip3 install <name_of_packege>
