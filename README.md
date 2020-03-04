@@ -1,13 +1,13 @@
-# Botika-NDCS
+# Botika-NDSC
 This is a repository for the beginner in Shopee NDSC by Botika. You can see all the items in the file presentation.pdf. If you wanna try there are some software you must installed. You can look tutorial for more information
 
 ### Tutorial
 #### 1. Installation software
-###### Git
+#### Git
 1. Download git installer in here https://git-scm.com/downloads
 2. Install git on your computer
 
-###### Python on Windows
+#### Python on Windows
 If this is the first you try to learn python i recommended you use anaconda. Because there is a jupyter notebook that is easy to use.
 1. Using Anaconda
 - Download Anaconda installer from here https://www.anaconda.com/distribution/
@@ -22,7 +22,7 @@ If this is the first you try to learn python i recommended you use anaconda. Bec
 - close the python using ctrl+z
 - install jupyter notebook with type pip install notebook
 
-###### Python on Linux Ubuntu
+#### Python on Linux Ubuntu
 1. Using Anaconda
 Visit this link for more information https://docs.anaconda.com/anaconda/install/linux/
 2. Without Anaconda
