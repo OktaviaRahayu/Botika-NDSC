@@ -30,3 +30,4 @@ Visit this link for more information https://docs.anaconda.com/anaconda/install/
 - type pip install notebook
 
 For library that you need for this repository, look at requirements.txt
+You can find the data that used in https://www.kaggle.com/shivamb/netflix-shows.
